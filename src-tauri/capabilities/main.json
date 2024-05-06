@@ -9,20 +9,6 @@
     "android"
   ],
   "permissions": [
-    {
-      "identifier": "http:default",
-      "allow": [
-        {
-          "url": "https://*.tauri.app"
-        }
-      ],
-      "deny": [
-        {
-          "url": "https://private.tauri.app"
-        }
-      ]
-    },
-    "http:default",
     "store:default"
   ]
 }
