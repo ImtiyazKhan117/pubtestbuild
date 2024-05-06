@@ -28,5 +28,6 @@ npm run tauri android init
 npm run tauri android dev
 
 
+## Error(Specific Import Error)
 
-
+05-06 19:39:30.673 24055 24055 E Tauri/Console: File: http://tauri.localhost/ - Line 0 - Msg: Uncaught TypeError: Failed to resolve module specifier "@tauri-apps/plugin-store". Relative references must start with either "/", "./", or "../".
