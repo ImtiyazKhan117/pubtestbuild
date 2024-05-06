@@ -1,4 +1,4 @@
-# pubtestbuild
+# Public Test Build
  Tauri Public Testing Build
 
 ## Project Setup:
